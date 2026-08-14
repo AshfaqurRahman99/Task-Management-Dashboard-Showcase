@@ -50,15 +50,7 @@ Designed to eliminate communication bottlenecks by replacing fragmented task tra
 * **Interactive Review & Approval Workflow:** Once an assignee marks a task as completed, it automatically routes back to the assigner's portal for evaluation. Managers can either approve the task to clear it from the dashboard or put it on "Hold" with specific feedback comments if revisions are required, ensuring strict quality control.
 * **Dynamic Task Lifecycle Management & Lean Communication (JIT):** Assigners retain absolute control over a task's lifecycle even after delegation, with the ability to seamlessly modify deadlines, update resources, or completely cancel tasks directly from their dashboard. Any adjustment instantly triggers a comprehensive, automated Just-In-Time (JIT) email alert to the assignee detailing the exact changes. By delivering real-time updates exactly when needed, the system actively mitigates systemic communication gaps and eradicates the need for manual follow-ups or redundant messaging. This effectively eliminates "over-processing" (a core principle of Lean 7 Wastes), ensuring a highly efficient, lean, and continuous operational workflow.
 
-### 🚀 What's New in Version 1.1 (Localization & Accessibility)
-* **Dynamic Language Toggle (English / Bengali):** Implemented a session-state-based translation dictionary allowing users to switch the entire interface between English and Bengali instantly.
-* **Inclusive User Experience:** Designed to break language barriers, ensuring users comfortable in their native language can operate the system flawlessly alongside those preferring English.
-* **Scalable Architecture:** The translation logic is entirely decoupled from the core codebase, making it highly flexible to add more regional languages in the future with zero downtime.
 
-### 🛡️ What's New in Version 1.2 (Security & Authentication Upgrade)
-* **Cryptographic Password Hashing:** Upgraded from plaintext database storage to secure password hashing using `Werkzeug` to prevent data breaches.
-* **Secure Session Management:** Replaced vulnerable plaintext cookies with encrypted JSON Web Tokens (JWT) for the auto-login feature, effectively eliminating session hijacking risks.
-* **Cross-Site Scripting (XSS) Protection:** Implemented strict HTML escaping and URL validation across all user inputs and dynamic table rendering to prevent malicious script injections.
 
 ### 🤝 Organizational Work Culture (Flexible Hierarchy)
 Being a social organization, PYF promotes a collaborative, open, and dynamic work environment rather than a strictly rigid corporate hierarchy. 
@@ -93,6 +85,17 @@ graph TD
 * **Automation:** Python `smtplib`, `email.mime`
 * **IDE:** Visual Studio Code
 
+### 🚀 What's New in Version 1.1 (Localization & Accessibility)
+* **Dynamic Language Toggle (English / Bengali):** Implemented a session-state-based translation dictionary allowing users to switch the entire interface between English and Bengali instantly.
+* **Inclusive User Experience:** Designed to break language barriers, ensuring users comfortable in their native language can operate the system flawlessly alongside those preferring English.
+* **Scalable Architecture:** The translation logic is entirely decoupled from the core codebase, making it highly flexible to add more regional languages in the future with zero downtime.
+
+### 🛡️ What's New in Version 1.2 (Security & Authentication Upgrade)
+* **Cryptographic Password Hashing:** Upgraded from plaintext database storage to secure password hashing using `Werkzeug` to prevent data breaches.
+* **Secure Session Management:** Replaced vulnerable plaintext cookies with encrypted JSON Web Tokens (JWT) for the auto-login feature, effectively eliminating session hijacking risks.
+* **Cross-Site Scripting (XSS) Protection:** Implemented strict HTML escaping and URL validation across all user inputs and dynamic table rendering to prevent malicious script injections.
+
+  
 ## 🚀 Future Scope: Process Optimization Roadmap (Version 2.0)
 As an engineer focused on systems optimization, I deliberately refrained from front-loading the system with heavy, complex features (such as gamified leaderboards) to prevent user fatigue. The current architecture is live specifically to gather **User Experience (UX) data and real-time behavioral metrics**. 
 

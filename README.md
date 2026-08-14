@@ -93,7 +93,7 @@ graph TD
   </tr>
   <!-- প্রথম সারি: GIF -->
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/2bf8889c-840e-41d7-bf05-a691b58a8fcd" width="400" alt="Language Toggle"/></td>
+    <td><img src="" width="400" alt="Language Toggle"/></td>
     <td><img src="https://github.com/user-attachments/assets/b4d9fc2d-ddd0-44d8-8a26-0aae34bbb24f" width="400" alt="Assignment & Alert"/></td>
   </tr>
   
@@ -153,5 +153,6 @@ Based on the upcoming operational insights, the following data-driven optimizati
 
 <img width="1920" height="816" alt="task assign and Automatic email notification" src="https://github.com/user-attachments/assets/b4d9fc2d-ddd0-44d8-8a26-0aae34bbb24f" />
 <img width="1920" height="816" alt="Task Status Update and Progress Bar" src="https://github.com/user-attachments/assets/f2fe860a-dd63-4215-98b8-67f9f936ba2f" />
-<img width="1920" height="816" alt="language feature" src="https://github.com/user-attachments/assets/2bf8889c-840e-41d7-bf05-a691b58a8fcd" />
+<img width="1920" height="816" alt="Language feature" src="https://github.com/user-attachments/assets/9d705543-d8fc-419b-a5a1-81805364e0a7" />
+
 

@@ -1,5 +1,11 @@
 # Task-Management-Dashboard-Showcase
-# 🚀 Centralized Task Management & Workflow Optimization System (PYF)
+# 🚀 Centralized Task Management & Workflow Optimization System ( PATH Youth Forum )
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B.svg)
+![Google Sheets](https://img.shields.io/badge/Database-Google_Sheets-34A853.svg)
+![Status](https://img.shields.io/badge/Status-MVP_Live_for_UX_Testing-success.svg)
+
 A real-time, scalable task management dashboard engineered to streamline organizational operations, automate reporting, and enhance team accountability.
 
 ## 🎯 Problem Statement & Motivation

@@ -5,6 +5,7 @@ A real-time, scalable task management dashboard engineered to streamline organiz
 
 ## 🏗️ System Architecture
 ```mermaid
+
 graph LR
     A[👤 Admin / User] -->|Task Input| B(💻 Streamlit Dashboard)
     B <-->|Read / Write| C[(📊 Google Sheets API)]

@@ -1,3 +1,5 @@
+<img width="1920" height="816" alt="Task Status Update and Progress Bar" src="https://github.com/user-attachments/assets/d8d3935b-35c2-4893-a272-2eb9377d1059" />
+
 
 # Task-Management-Dashboard-Showcase
 # 🚀 Centralized Task Management & Workflow Optimization System ( PATH Youth Forum )
@@ -91,7 +93,7 @@ graph TD
   </tr>
   <!-- প্রথম সারি: GIF -->
   <tr>
-    <td><img src="এখানে_আপনার_১ম_লিংক_বসাবেন" width="400" alt="Language Toggle"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2bf8889c-840e-41d7-bf05-a691b58a8fcd" width="400" alt="Language Toggle"/></td>
     <td><img src="https://github.com/user-attachments/assets/b4d9fc2d-ddd0-44d8-8a26-0aae34bbb24f" width="400" alt="Assignment & Alert"/></td>
   </tr>
   
@@ -101,7 +103,8 @@ graph TD
   </tr>
   <!-- দ্বিতীয় সারি: GIF (মাঝখানে থাকবে) -->
   <tr>
-    <td align="center" colspan="2"><img src="এখানে_আপনার_৩য়_লিংক_বসাবেন" width="400" alt="Progress Bar"/></td>
+    <td align="center" colspan="2"><img src="https://github.com/user-attachments/assets/f2fe860a-dd63-4215-98b8-67f9f936ba2f"<img width="1920" height="816" alt="lnguage feature" src="https://github.com/user-attachments/assets/2f39db35-2a45-477d-bc2b-1c0060f08866" />
+ width="400" alt="Progress Bar"/></td>
   </tr>
 </table>
 
@@ -149,3 +152,6 @@ Based on the upcoming operational insights, the following data-driven optimizati
 *Developed with 💡 by **Ashfaqur Rahman** | Focused on Operations, Systems Engineering & Process Optimization.*
 
 <img width="1920" height="816" alt="task assign and Automatic email notification" src="https://github.com/user-attachments/assets/b4d9fc2d-ddd0-44d8-8a26-0aae34bbb24f" />
+<img width="1920" height="816" alt="Task Status Update and Progress Bar" src="https://github.com/user-attachments/assets/f2fe860a-dd63-4215-98b8-67f9f936ba2f" />
+<img width="1920" height="816" alt="language feature" src="https://github.com/user-attachments/assets/2bf8889c-840e-41d7-bf05-a691b58a8fcd" />
+

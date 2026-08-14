@@ -93,7 +93,17 @@ graph TD
 * **Automation:** Python `smtplib`, `email.mime`
 * **IDE:** Visual Studio Code
 
-## 📈 Future Roadmap (Version 2.0)
+## 🚀 Future Scope: Process Optimization Roadmap
+As an engineer focused on systems optimization, I purposely paused adding heavy features (like Leaderboards) to prevent user fatigue. The current system is live to gather **User Experience (UX) data and real-time usage metrics**.
+
 * Integration of analytical charts for performance tracking.
 * Implementation of memory caching (`@st.cache_data`) for optimized API request handling.
+* Based on the upcoming behavioral data, the following optimizations are planned for **Version 2.0**:
+1. **⚖️ Workload Balancing Alert:** An automated check during task assignment that warns the assigner if a member is currently overloaded with pending tasks (preventing resource bottlenecks).
+2. **📋 Kanban Board View:** Upgrading the tabular UI to an industrial Kanban flow (To-Do -> In-Progress -> Done) for better visual project management.
+3. **⏰ Smart Reminder System (Automated Follow-ups):** Triggering automated emails or dashboard pop-ups for tasks that are 24 hours away from their deadline.
+4. **📈 Process Analytics Dashboard:** A dedicated graphical visualization panel for administration to track project velocity, measure task efficiency rates, and identify persistent bottlenecks.
+
+---
+*Developed with 💡 by **Ashfaqur Rahman** | Focused on Operations, Systems Engineering & Process Optimization.*
 

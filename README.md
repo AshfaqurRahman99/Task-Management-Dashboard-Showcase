@@ -16,6 +16,8 @@ graph LR
     style C fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
     style D fill:#fff3e0,stroke:#f57c00,stroke-width:2px
     style E fill:#fce4ec,stroke:#c2185b,stroke-width:2px
+
+
 ```
 ### 🛡️ What's New in Version 1.2 (Security & Authentication Upgrade)
 * **Cryptographic Password Hashing:** Upgraded from plaintext database storage to secure password hashing using `Werkzeug` to prevent data breaches.

@@ -16,3 +16,8 @@ graph LR
     style C fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
     style D fill:#fff3e0,stroke:#f57c00,stroke-width:2px
     style E fill:#fce4ec,stroke:#c2185b,stroke-width:2px
+
+### 🛡️ What's New in Version 1.2 (Security & Authentication Upgrade)
+* **Cryptographic Password Hashing:** Upgraded from plaintext database storage to secure password hashing using `Werkzeug` to prevent data breaches.
+* **Secure Session Management:** Replaced vulnerable plaintext cookies with encrypted JSON Web Tokens (JWT) for the auto-login feature, effectively eliminating session hijacking risks.
+* **Cross-Site Scripting (XSS) Protection:** Implemented strict HTML escaping and URL validation across all user inputs and dynamic table rendering to prevent malicious script injections.

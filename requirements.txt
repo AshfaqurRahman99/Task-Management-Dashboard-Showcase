@@ -1,0 +1,6 @@
+streamlit
+gspread
+pandas
+streamlit-cookies-controller
+Werkzeug
+PyJWT

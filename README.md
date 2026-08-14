@@ -93,16 +93,23 @@ graph TD
 * **Automation:** Python `smtplib`, `email.mime`
 * **IDE:** Visual Studio Code
 
-## 🚀 Future Scope: Process Optimization Roadmap
-As an engineer focused on systems optimization, I purposely paused adding heavy features (like Leaderboards) to prevent user fatigue. The current system is live to gather **User Experience (UX) data and real-time usage metrics**.
+## 🚀 Future Scope: Process Optimization Roadmap (Version 2.0)
+As an engineer focused on systems optimization, I deliberately refrained from front-loading the system with heavy, complex features (such as gamified leaderboards) to prevent user fatigue. The current architecture is live specifically to gather **User Experience (UX) data and real-time behavioral metrics**. 
 
-* Integration of analytical charts for performance tracking.
-* Implementation of memory caching (`@st.cache_data`) for optimized API request handling.
-* Based on the upcoming behavioral data, the following optimizations are planned for **Version 2.0**:
-1. **⚖️ Workload Balancing Alert:** An automated check during task assignment that warns the assigner if a member is currently overloaded with pending tasks (preventing resource bottlenecks).
-2. **📋 Kanban Board View:** Upgrading the tabular UI to an industrial Kanban flow (To-Do -> In-Progress -> Done) for better visual project management.
-3. **⏰ Smart Reminder System (Automated Follow-ups):** Triggering automated emails or dashboard pop-ups for tasks that are 24 hours away from their deadline.
-4. **📈 Process Analytics Dashboard:** A dedicated graphical visualization panel for administration to track project velocity, measure task efficiency rates, and identify persistent bottlenecks.
+Based on the upcoming operational insights, the following data-driven optimizations are slated for Version 2.0:
+
+### 🧠 Intelligent Workflow & Automation
+* **⚖️ Workload Balancing Alerts:** An automated pre-assignment check that alerts managers if a team member is currently overloaded with pending tasks, proactively preventing resource bottlenecks and employee burnout.
+* **⏰ Smart Reminder System (JIT Follow-ups):** Automated email triggers and dashboard nudges for tasks approaching their 24-hour deadline window to ensure continuous operational flow.
+
+### 📊 Data-Driven Analytics
+* **📈 Process Analytics Dashboard:** Integration of a dedicated graphical visualization panel for administration. This will utilize analytical charts to track project velocity, measure task efficiency rates, and identify persistent organizational bottlenecks.
+
+### 📋 UI/UX Enhancements
+* **🗂️ Kanban Board Visualization:** Upgrading the standard tabular UI to an interactive, industrial Kanban flow (To-Do ➔ In-Progress ➔ Done) for enhanced visual project management and status tracking.
+
+### ⚙️ System Architecture & Performance
+* **⚡ API & Load Optimization:** Implementation of memory caching (`@st.cache_data`) for repetitive queries to drastically reduce Google Sheets API calls, optimize request handling, and enhance overall system speed.
 
 ---
 *Developed with 💡 by **Ashfaqur Rahman** | Focused on Operations, Systems Engineering & Process Optimization.*

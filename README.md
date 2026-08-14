@@ -82,6 +82,10 @@ graph TD
 
 ```
 
+## 🎥 System Walkthrough (Demo)
+*A short video demonstration showcasing the user interface, task assignment process, and email notification workflow.*
+> 🔗 **[Click here to watch the Video Walkthrough (YouTube Unlisted)](#)** *(Replace this with your YouTube link)*
+
 ## 🛠️ Technology Stack
 * **Frontend:** Streamlit (Python)
 * **Backend/Database:** Google Sheets API (`gspread`, `oauth2client`)

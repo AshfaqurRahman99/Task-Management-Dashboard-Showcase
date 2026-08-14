@@ -37,12 +37,20 @@ Designed to eliminate communication bottlenecks by replacing fragmented task tra
 * **Cryptographic Password Hashing:** Upgraded from plaintext database storage to secure password hashing using `Werkzeug` to prevent data breaches.
 * **Secure Session Management:** Replaced vulnerable plaintext cookies with encrypted JSON Web Tokens (JWT) for the auto-login feature, effectively eliminating session hijacking risks.
 * **Cross-Site Scripting (XSS) Protection:** Implemented strict HTML escaping and URL validation across all user inputs and dynamic table rendering to prevent malicious script injections.
+
+### 🤝 Organizational Work Culture (Flexible Hierarchy)
+Being a social organization, PYF promotes a collaborative, open, and dynamic work environment rather than a strictly rigid corporate hierarchy. 
+
+While a standard chain of command exists for major core operations, **Top Management retains the flexibility to directly assign tasks to the Officer Level**. This ensures rapid execution, agile decision-making, and maintains a close-knit, highly engaged team culture.
+
 ```mermaid
 graph TD
     Top[👑 Top Management] -->|Assigns Core Projects| Mid(👔 Mid Management)
     Mid -->|Divides & Assigns Sub-tasks| Officer(💼 Officer Level)
+    Top -->|Direct Assignment| Officer
     
     Officer -.->|Submits Real-time Updates| Mid
+    Officer -.->|Direct Task Updates| Top
     Mid -.->|Submits Final Report| Top
 
     style Top fill:#ede7f6,stroke:#512da8,stroke-width:2px

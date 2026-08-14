@@ -1,6 +1,3 @@
-<img width="1920" height="816" alt="Task Status Update and Progress Bar" src="https://github.com/user-attachments/assets/d8d3935b-35c2-4893-a272-2eb9377d1059" />
-
-
 # Task-Management-Dashboard-Showcase
 # 🚀 Centralized Task Management & Workflow Optimization System ( PATH Youth Forum )
 

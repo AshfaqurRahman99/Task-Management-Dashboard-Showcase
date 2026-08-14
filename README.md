@@ -27,6 +27,7 @@ Designed to eliminate communication bottlenecks by replacing fragmented task tra
 * **Real-time Database Sync:** Direct integration with Google Sheets API for live data storage and retrieval.
 * **Role-based Task Visualization:** Clean, filtered dashboards for individual assignees to view and update only their specific tasks.
 * **Automated Time-stamping:** Accurate, system-generated tracking of submission times to prevent manual entry errors (Diagonal Data Bug resolved).
+* **360° Organizational Visibility & Tracking:** Top Management is equipped with a bird's-eye view of all organizational activities. They can instantly monitor any active task across the system—regardless of who assigned it (other Top Management or Mid-Management)—and track its real-time progress stage, ensuring complete transparency.
 
 ### 🚀 What's New in Version 1.1 (Localization & Accessibility)
 * **Dynamic Language Toggle (English / Bengali):** Implemented a session-state-based translation dictionary allowing users to switch the entire interface between English and Bengali instantly.

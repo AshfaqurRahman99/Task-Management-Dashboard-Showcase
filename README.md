@@ -1,3 +1,4 @@
+
 # Task-Management-Dashboard-Showcase
 # 🚀 Centralized Task Management & Workflow Optimization System ( PATH Youth Forum )
 
@@ -91,7 +92,7 @@ graph TD
   <!-- প্রথম সারি: GIF -->
   <tr>
     <td><img src="এখানে_আপনার_১ম_লিংক_বসাবেন" width="400" alt="Language Toggle"/></td>
-    <td><img src="এখানে_আপনার_২য়_লিংক_বসাবেন" width="400" alt="Assignment & Alert"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b4d9fc2d-ddd0-44d8-8a26-0aae34bbb24f" width="400" alt="Assignment & Alert"/></td>
   </tr>
   
   <!-- দ্বিতীয় সারি: টাইটেল (মাঝখানে থাকবে) -->
@@ -147,3 +148,4 @@ Based on the upcoming operational insights, the following data-driven optimizati
 ---
 *Developed with 💡 by **Ashfaqur Rahman** | Focused on Operations, Systems Engineering & Process Optimization.*
 
+<img width="1920" height="816" alt="task assign and Automatic email notification" src="https://github.com/user-attachments/assets/b4d9fc2d-ddd0-44d8-8a26-0aae34bbb24f" />

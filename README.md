@@ -79,6 +79,30 @@ graph TD
 
 
 ```
+## 🎬 System Previews & Features
+*(Here is a quick overview of the core functionalities in action)*
+
+<table align="center">
+  <!-- প্রথম সারি: টাইটেল -->
+  <tr>
+    <td align="center"><b>1. Dynamic Language Toggle</b></td>
+    <td align="center"><b>2. Login, Task Assignment & Email Alert</b></td>
+  </tr>
+  <!-- প্রথম সারি: GIF -->
+  <tr>
+    <td><img src="এখানে_আপনার_১ম_লিংক_বসাবেন" width="400" alt="Language Toggle"/></td>
+    <td><img src="এখানে_আপনার_২য়_লিংক_বসাবেন" width="400" alt="Assignment & Alert"/></td>
+  </tr>
+  
+  <!-- দ্বিতীয় সারি: টাইটেল (মাঝখানে থাকবে) -->
+  <tr>
+    <td align="center" colspan="2"><b>3. Task Status Update & Visual Progress Bar</b></td>
+  </tr>
+  <!-- দ্বিতীয় সারি: GIF (মাঝখানে থাকবে) -->
+  <tr>
+    <td align="center" colspan="2"><img src="এখানে_আপনার_৩য়_লিংক_বসাবেন" width="400" alt="Progress Bar"/></td>
+  </tr>
+</table>
 
 ## 🎥 System Walkthrough (Demo)
 *A short video demonstration showcasing the user interface, task assignment process, and email notification workflow.*

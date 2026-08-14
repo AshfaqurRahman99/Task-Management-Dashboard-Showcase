@@ -103,8 +103,7 @@ graph TD
   </tr>
   <!-- দ্বিতীয় সারি: GIF (মাঝখানে থাকবে) -->
   <tr>
-    <td align="center" colspan="2"><img src="https://github.com/user-attachments/assets/f2fe860a-dd63-4215-98b8-67f9f936ba2f"<img width="1920" height="816" alt="lnguage feature" src="https://github.com/user-attachments/assets/2f39db35-2a45-477d-bc2b-1c0060f08866" />
- width="400" alt="Progress Bar"/></td>
+    <td align="center" colspan="2"><img src="https://github.com/user-attachments/assets/b4d9fc2d-ddd0-44d8-8a26-0aae34bbb24f" width="400" alt="Progress Bar"/></td>
   </tr>
 </table>
 

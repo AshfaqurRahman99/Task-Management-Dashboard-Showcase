@@ -72,9 +72,9 @@ graph TD
     Officer -.->|Direct Task Updates| Top
     Mid -.->|Submits Final Report| Top
 
-    style Top fill:#ede7f6,stroke:#512da8,stroke-width:2px
-    style Mid fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
-    style Officer fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
+    style Top fill:#ede7f6,stroke:#512da8,stroke-width:2px,color:#000000
+    style Mid fill:#e3f2fd,stroke:#1976d2,stroke-width:2px,color:#000000
+    style Officer fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#000000
 
 
 ```

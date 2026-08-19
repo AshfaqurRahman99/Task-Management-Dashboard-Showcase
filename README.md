@@ -48,7 +48,7 @@ graph LR
 graph LR
     A[👤 Admin / User] -->|Task Input| B(💻 Streamlit Dashboard)
     B <-->|Read / Write| C[(📊 Google Sheets API)]
-    B -->|Trigger| D(📧 SMTP Server)
+    B -->|Trigger| D{📧 SMTP Server}
     D -->|Notify| E[📫 User Inbox]
     
     style A fill:#f9f9f9,stroke:#333,stroke-width:2px,color:#000000

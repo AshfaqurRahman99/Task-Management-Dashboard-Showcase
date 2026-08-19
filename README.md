@@ -56,6 +56,7 @@ graph LR
     style C fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#000000
     style D fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#000000
     style E fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#000000
+```
 
 ## 🎯 Project Objective
 Designed to eliminate communication bottlenecks by replacing fragmented task tracking with a unified, cloud-connected platform. The system ensures real-time tracking, automated SMTP email alerts, and seamless status updates.
